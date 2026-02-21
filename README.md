@@ -1,12 +1,7 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Stine Strand</h1>
+<h1 align="left">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Stine Strand</h1>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=stinest-uia">
-    <img src="https://komarev.com/ghpvc/?username=stinest-uia&label=Profile%20views&color=00FFFF&style=flat-square" alt="stinest-uia's profile views" />
-  </a>
-</p>
 
-## 📊 GitHub Stats & Trophies
+
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
