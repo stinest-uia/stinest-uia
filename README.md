@@ -2,7 +2,7 @@
 
 
 
-<div align="center">
+<div align="left">
   <img src="profile-3d-city.svg" alt="3D City" width="50%" />
 </div>
 
